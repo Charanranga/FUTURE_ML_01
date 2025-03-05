@@ -30,4 +30,10 @@ We used the **Spotify Tracks Dataset** available on Kaggle:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Charanranga/FUTURE_ML_01.git
+Contact :
+For any queries, reach out via GitHub Issues or email.
 
+Happy Mood Classification! Thank you for visiting.
+
+Internship Details :
+Offered By: Future Interns Role: Machine Learning Intern Task 01: Spotify Song Mood Classification
